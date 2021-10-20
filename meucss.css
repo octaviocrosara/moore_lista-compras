@@ -1,0 +1,23 @@
+#conteudo{position:absolute;width:100%; background:#eeeeee;min-height:100%;min-width:520px;height:auto;}
+#conteudo2{position:absolute;width:100%; background:#FFF8DC;min-height:100%;min-width:520px;height:auto;}
+#central{position:relative;margin:0 auto;width:90%;min-height:400px;}
+
+#topo{color:#474747;font-size:17px;height:30px;padding-top:15px;width:400px;}
+
+.formpadr{border-radius:4px;font-size:16px;height:30px;font-family:arial;}
+.formhide{font-size:17px;font-family:arial;display:none;}
+.formitem{font-size:16px;font-family:arial;}
+#cgenv{background:#005691;color:white;}
+#cgenv:hover{background:#0069B0;}
+
+#novalis{background:white;height:65px;width:480px;background:#eeeeee;}
+#novalis2{height:65px;width:480px;background:#FFF8DC;margin:0 auto;}
+#listagem{height:60px;width:480px;display:block;}
+#mais{float:left;height:65px;width:75px;background:white;border:1px solid grey;cursor:pointer;}
+
+.exclui{background:red;height:35px;width:35px;margin-left:10px;margin-top:5px;display:block;float:right;}
+
+.exclui2{background:red;height:28px;width:28px;margin-left:5px;margin-top:2px;display:block;float:right;}
+
+body{width: auto !important;display:block;margin: 0;padding: 0;border: 0;outline: 0;font-size: 100%;
+vertical-align: baseline;background: transparent;}
